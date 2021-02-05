@@ -27,6 +27,7 @@ MQTT使用的底层传输协议基础设施。
 例子见4.2节。
 
 **应用消息 Application Message**
+
 MQTT协议通过网络传输应用数据。应用消息通过MQTT传输时，它们有关联的服务质量（QoS）和主题（Topic）。
 
 **客户端 Client**  
